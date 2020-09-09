@@ -10,6 +10,8 @@ Sounds for the [Darth-Vader-RPi](https://github.com/raul23/Darth-Vader-RPi) proj
 - **Music:**
   - [Imperial March song by Jacob Townsend](https://soundcloud.com/jacobtownsend1/imperial-march)
     is licensed under a [Creative Commons (CC BY-NC-SA 3.0) License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+  
+    **NOTE:** The original song file was reduced under 1 MB by removing the first 7 seconds (no sound) and the last 2 minutes and 24 seconds.
 
 - **Sound effects:**
   - [Darth Vader breathing sound (YouTube)](https://www.youtube.com/watch?v=d28NrjMPERs)
@@ -17,6 +19,6 @@ Sounds for the [Darth-Vader-RPi](https://github.com/raul23/Darth-Vader-RPi) proj
   - [Darth Vader's lightsaber retraction sound effect (YouTube)](https://www.youtube.com/watch?v=m6buyGJF46k)
 
 
-`:information_source:`
-
-    Test
+## License
+The code is licensed under GPLv3 and the song file [Imperial March song by Jacob Townsend](https://soundcloud.com/jacobtownsend1/imperial-march)
+    is licensed under a [Creative Commons (CC BY-NC-SA 3.0) License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
